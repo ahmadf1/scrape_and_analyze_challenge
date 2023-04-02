@@ -1,2 +1,2 @@
-# scrape_snd_analyze_challenge
+# scrape_and_analyze_challenge
 homework 11
